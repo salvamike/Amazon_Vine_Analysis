@@ -3,11 +3,11 @@
 ## Overview of Analysis
 > The purpose for this analysis is to utilize Amazon review big data to draw conclusions on the validity of Amazon Vine reviews. In this analysis the following steps were taken:
   >> - Created and Amazon RDS
-  - Pulled a dataset from Amazon (pet products)
-  - Coded the data into dataframes
-  - Uploaded that data into a PgAdmin database
-  - Manipulated data
-  - Illustrated data
+  >> - Pulled a dataset from Amazon (pet products)
+  >> - Coded the data into dataframes
+  >> - Uploaded that data into a PgAdmin database
+  >> - Manipulated data
+  >> - Illustrated data
   
 Below are the results of the data regarding Amazon pet products.
 
